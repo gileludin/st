@@ -1,0 +1,9 @@
+# object files
+*.o
+
+# patch files
+*.orig
+*.rej
+
+# project spesific
+st
